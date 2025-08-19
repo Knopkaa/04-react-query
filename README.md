@@ -1,1 +1,1 @@
-# 04-react-query
+# 01-ts-basics
